@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minimanrog
 - 👀 I’m interested in ... everything!
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python and react
 - 💞️ I’m looking to collaborate on ... anything that will help me learn
 - 📫 How to reach me ...
 
